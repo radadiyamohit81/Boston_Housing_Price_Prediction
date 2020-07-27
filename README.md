@@ -1,8 +1,5 @@
 ## Project: Predicting Boston Housing Prices
 
-# Kaggle Competition Link: 
-  https://www.kaggle.com/vikrishnan/boston-house-prices
-
 ## Introduction
 
 This repo contains all my work for Project 2 of Udacity's Machine Learning Basic Nanodegree Program. In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first explored the data to obtain important features and descriptive statistics about the dataset. Next, I properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. Then I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes. This enabled me to pick the optimal model that best generalizes for unseen data. Finally, I tested this optimal model on a new sample and compare the predicted selling price to my statistics.
@@ -43,7 +40,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 This project contains three files:
 
 - `Housing Price Prediction.ipynb`: This is the main file where you will be performing your work on the project.
-- `data/house_dataset.csv`: The project dataset. You'll load this data in the notebook.
+- `house_dataset.csv`: The project dataset. You'll load this data in the notebook.
 
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `Housing Price Prediction.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project.
 
