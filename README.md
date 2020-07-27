@@ -1,5 +1,6 @@
 ## Project: Predicting Boston Housing Prices
 
+#### Medium Article link: [Medium](https://medium.com/analytics-vidhya/ml-algorithm-linear-regression-on-boston-housing-dataset-3785f488871)
 ## Introduction
 
 This repo contains all my work for Project 2 of Udacity's Machine Learning Basic Nanodegree Program. In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first explored the data to obtain important features and descriptive statistics about the dataset. Next, I properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. Then I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes. This enabled me to pick the optimal model that best generalizes for unseen data. Finally, I tested this optimal model on a new sample and compare the predicted selling price to my statistics.
